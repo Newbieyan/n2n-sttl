@@ -1,0 +1,9 @@
+网间集中化新业务--复盘开发
+
+一、应用规划
+n2n-sttl-check      话单校验
+n2n-sttl-decode     文件解码
+n2n-sttl-param      公参服务
+n2n-sttl-scan       文件扫描
+n2n-sttl-sorting    话单分拣
+
